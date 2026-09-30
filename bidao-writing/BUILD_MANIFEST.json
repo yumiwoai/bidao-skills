@@ -1,0 +1,52 @@
+{
+  "tool": "cangjie-tools v2.5.0",
+  "published_hashes": {
+    "references\\capabilities\\anti-climax-ending.md": "2f848c3162d2c604172d4da7e814d6857b979f673cfd24078c9965c5eb1cda9c",
+    "references\\capabilities\\caution-dosage-note.md": "74c5946c679ca1b138beca604e5de7c46113c45ab8312a4ec21f00f363b8f23a",
+    "references\\capabilities\\comment-engagement-device.md": "5232d1a9d2291e8a0aebe74e030be8b44f7f5dd73d268d911f2f4e4933b3582e",
+    "references\\capabilities\\disclaimer-device.md": "c7d861d31ad5b74388b0a36bf7aa29c98df2e016e9d09b2c7e9c8c786c5d8ce7",
+    "references\\capabilities\\empirical-writing.md": "d8394d02afeea40760af17c916361acdd09a2f7a5b531f89670af787aa92c92e",
+    "references\\capabilities\\extreme-extrapolation.md": "5bf3e292b04bca1db0b7a29e4f09f748540a2615d5d4dcf153cfee8e14c9b06e",
+    "references\\capabilities\\interview-story-collection.md": "afc9202b400ab9920e4649dd9c2827570ad343f7a1019e0610d180fab534949f",
+    "references\\capabilities\\inversion-premise.md": "1be7ef0ea2e5642730b0e88b62172e0a1ce9f2ad3f6ac805e150532752f2e810",
+    "references\\capabilities\\mock-academic-packaging.md": "5ba538104457943b8455813547a6815982a447c1b6128b223c436e3a150bef1c",
+    "references\\capabilities\\mock-lab-report.md": "4891f7eff64829e8fc947d4669d3d0e754cb4759dd237625a1f3373176837fb0",
+    "references\\capabilities\\move-naming.md": "008e9c3b096624cce740303bc3024c294a9f6c240fb4f8981298af17de72fa6b",
+    "references\\capabilities\\positive-landing.md": "ea0c3108bca0e5bc2d26f8d8ac476d2023f39105e42961e6b9ad06d28ce0a63c",
+    "references\\capabilities\\price-anchor-conversion.md": "96f8b760fad3b9ac1e8b636e216dfd9874370c666d917ff601518bbd5000691e",
+    "references\\capabilities\\pseudo-precision-numbers.md": "849b3db3f1513f2f31160bdbd97ed42a4cf319c5e5f7562dc9d96cd8d0fe9475",
+    "references\\capabilities\\pun-language-hacks.md": "23b1d699e7786df13d53edbe358924a96c29ed7f61ad10af9c83b80e45f30a28",
+    "references\\capabilities\\seamless-ad-integration.md": "e4be758d26d91d412fe1551b175deee22b5c6bb674c22c5e6d7bff213ad47c4d",
+    "references\\capabilities\\self-deprecating-persona.md": "12963a5623db965eeee9b39de34f0619c74b1bf4b1c591b19a6e98daab01839e",
+    "references\\capabilities\\self-made-quantification.md": "b6cb00649641c075a06453188fb639f517588faedb1e50a1842ea4c8a4863493",
+    "references\\capabilities\\taxonomy-catalog.md": "bb93e872ef55c8727582b01a304507ad36106c1b5030e66f8f1bb3e2ddecc8b0",
+    "references\\capabilities\\three-level-escalation.md": "d6a9bda688a6c29974afbfa01d606a8c79f580d42f4b38761b8db061e8ce3dda",
+    "references\\capabilities\\topical-anchor.md": "7908c425b615ea9b22586fdc4230a1a165831408033319a0d13eda0779c550b5",
+    "references\\capabilities\\twist-title.md": "be068c5c59f0763b0d45d40b81047d39698ca1b19957eb87254913d6e2e1462d",
+    "references\\capability-index.md": "8cc5a7de176dae6c3396bf918d7082d75ecc35507651aa3e51e2855fc31fced5",
+    "references\\cheatsheet.md": "51a1c232de29d3881d5af80655bd2048f801d589afa1c73e99e209b003a0794d",
+    "references\\glossary.md": "5b431fe844a81d4c378cae52f47b0aaf6c1849cff0b9fdcf84918b36c46a416f",
+    "references\\overview.md": "718b93dd0907c96e0c24a6bcef9b69b667c1fb285a4b04e353d667bbff2b6970",
+    "SKILL.md": "b771c152b614d9d0f29761b51cdb120879f779856df5485caf5ad05736c5f94b"
+  },
+  "note": "update/重编译前比对 published_hashes；检测到本地手改不得静默覆盖",
+  "bundle_id": "bundle.bidao-writings",
+  "bundle_sha256": "cf8e2ef03253717cbecf168a349ab162238fa4cde65c599913832fdf7bad23ab",
+  "variant": "single",
+  "run_id": "run-20260909-094445-532118",
+  "decision": {
+    "schema_version": 1,
+    "requested": "single",
+    "selected": "single",
+    "decision_policy": "single-first-v1",
+    "skill_budget": 8,
+    "promoted_count": 0,
+    "capability_count": 22,
+    "reasons": [
+      "用户显式选择 single，auto 决策器不覆盖用户选择"
+    ],
+    "alternative": "compact pack（1 个来源路由入口 + 0 个晋级 Skill，共 1 个可发现入口）",
+    "user_confirmed": true,
+    "preserve_strategy_on_update": true
+  }
+}
